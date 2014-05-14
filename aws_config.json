@@ -1,0 +1,1 @@
+{ "accessKeyId": "your_aws_access_key", "secretAccessKey": "your_aws_secret_key", "region": "us-east-1", "sqsURL":"https://sqs.us-east-1.amazonaws.com/XXXXXX/XXXXXX" }

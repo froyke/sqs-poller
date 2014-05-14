@@ -1,0 +1,16 @@
+{
+  "name": "sqs-poller",
+  "version": "0.1.0",
+  "author": "Roy Feintuch <roy@dome9.com>",
+  "description": "A simple AWS sqs message poller with winston back-end for multiple logging & storage formats (local file, syslog, etc...)",
+  "main": "./poller",  
+  "dependencies" : {
+    "aws-sdk"   :  "2.0.*",
+    "winston" :  "0.7.*",
+    "winston-syslog" :  "0.2.*"
+   },
+  "license": "BSD-3-Clause",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
