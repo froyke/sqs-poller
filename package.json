@@ -5,9 +5,9 @@
   "description": "A simple AWS sqs message poller with winston back-end for multiple logging & storage formats (local file, syslog, etc...)",
   "main": "./poller",  
   "dependencies" : {
-    "aws-sdk"   :  "2.0.*",
-    "winston" :  "0.7.*",
-    "winston-syslog" :  "0.2.*"
+    "aws-sdk"   :  "2.0.x",
+    "winston" :  "0.7.x",
+    "winston-syslog" :  "0.2.x"
    },
   "license": "BSD-3-Clause",
   "engines": {
