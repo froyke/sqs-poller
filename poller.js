@@ -1,3 +1,12 @@
+/* ******************************************************************************
+// Name: sqs-poller
+// Description: A simple AWS sqs message poller with winston back-end
+// Author: Roy Feintuch (froyke)
+//
+// Copywrite 2014, Dome9 Security
+// www.dome9.com - secure your cloud
+/* ******************************************************************************
+
 /* ****** Configuration Section **********/
 ENABLE_CONSOLE = true;
 ENABLE_FILE = true;
